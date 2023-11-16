@@ -20,8 +20,6 @@ def translate(word):
     else:
         return "The word doesn't exist. Please double check it."
         
-    else:
-        return "The word doesn't exist. Please double check it"
 
 word = input("Enter a word: ")
 
